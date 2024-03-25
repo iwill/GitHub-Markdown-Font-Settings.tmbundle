@@ -9,7 +9,7 @@
 	<key>settings</key>
 	<dict>
 		<key>fontName</key>
-		<string>San Francisco</string>
+		<string>Menlo</string>
 		<key>fontSize</key>
 		<string>1.1em</string>
 	</dict>
